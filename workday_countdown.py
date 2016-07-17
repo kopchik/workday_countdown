@@ -18,7 +18,7 @@ Some functions have "my" prefix to avoid collision with built-in
 python functions like eval or format.
 
 ``Expression'' (expr) is really a tuple of numbers and corresponding operators to
-apply. Operator precendes does not apply, expressions evaluated from left to right.
+apply. Operators' precedences does not apply, expressions evaluated from left to right.
 
 I tried to make functions ``robust'' without bloating code with too many checks.
 
