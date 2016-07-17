@@ -15,6 +15,7 @@ collected 4 items
 workday_countdown_test.py ....
 
 =========================== 4 passed in 0.46 seconds ===========================
+
 $ ./workday_countdown.py 
 Enter 7 numbers: 1 2 3 4 5 6 12
 2 * 6 = 12
