@@ -1,6 +1,6 @@
 # Countdown Problem
 
-Here is the solution for countdown problem. Please see `Problem - Countdown.docx' for problem description.
+Here is the solution for the countdown problem. Please see `Problem - Countdown.docx' for full description.
 
 
 How to use (needs **Python3** and **py.test** to work):
