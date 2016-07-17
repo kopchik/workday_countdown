@@ -1,7 +1,7 @@
 # Countdown Problem
 
 Here is the solution for the countdown problem. Please see `Problem - Countdown.docx' for full description.
-
+The code was reformatted with *autopep8*, expect some weirdness at times :).
 
 How to use (needs **Python3** and **py.test** to work):
 
