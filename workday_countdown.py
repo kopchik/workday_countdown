@@ -3,8 +3,8 @@
 """
 Hello Workday,
 
-I'm Alex <s>and I'm an alchoholic</s> and here is my code.
-It is too verbose at times, but that's intentionally.
+I'm Alex and here is my code. It is too verbose at times,
+but that's intentionally.
 
 I decided to use functional approach to this problem
 because it maps better to this task than OOP.
