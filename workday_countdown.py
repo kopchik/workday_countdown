@@ -17,17 +17,20 @@ tests would be a nightmare.
 Some functions have "my" prefix to avoid collision with built-in
 python functions like eval or format.
 
-``Expression'' (expr) is really a tuple of numbers and corresponding operators to
-apply. Operators' precedences does not apply, expressions evaluated from left to right.
+``Expression'' (expr) is really a tuple of numbers and corresponding
+operators to apply. Operators' precedences does not apply,
+expressions are evaluated from left to right.
 
-I tried to make functions ``robust'' without bloating code with too many checks.
+I tried to make functions ``robust'' without bloating code
+with too many checks.
 
-Tests are done with py.test and are in the separate file. To be launched as
-`py.test ./workday_countdown_test.py' .
+Tests are done with py.test and are in the separate file.
+To be launched as `py.test ./workday_countdown_test.py' .
 
-The formatting does not take care much about operator precedence: it just uses
-parentheses to make correct expressions.
-Let me know if this an issue, I'll fix this with Shunting-yard algorithm.
+The formatting does not take care much about operator precedence:
+it just uses parentheses to make correct expressions.
+Let me know if this an issue, I'll fix this with
+Shunting-yard algorithm.
 """
 
 
